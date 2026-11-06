@@ -1,4 +1,4 @@
-![COVID-19 Data Science Project](project_banner.png)
+![COVID-19 Data Science Project](COVID-19%20Data%20Science%20Project%20Banner.png)
 # 🌍 COVID-19 Data Science Project
 
 ### Exploratory Data Analysis | Data Visualization | Machine Learning
